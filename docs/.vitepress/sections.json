@@ -1,0 +1,44 @@
+[
+  {
+    "number": 1,
+    "slug": "01-accounts",
+    "title": "Accounts and Workspace",
+    "description": "Prepare ChatGPT Codex and GitHub.",
+    "optional": false
+  },
+  {
+    "number": 2,
+    "slug": "02-tools",
+    "title": "Core Development Tools",
+    "description": "Install Git, Python 3.12, and Chrome.",
+    "optional": false
+  },
+  {
+    "number": 3,
+    "slug": "03-android",
+    "title": "Flutter and Android",
+    "description": "Prepare the SDK and one Android test device.",
+    "optional": false
+  },
+  {
+    "number": 4,
+    "slug": "04-cloud-tools",
+    "title": "Container and Cloud Tools",
+    "description": "Install Docker and Azure CLI.",
+    "optional": false
+  },
+  {
+    "number": 5,
+    "slug": "05-ios",
+    "title": "Optional iOS Setup",
+    "description": "Prepare an iOS Simulator on a Mac.",
+    "optional": true
+  },
+  {
+    "number": 6,
+    "slug": "06-readiness",
+    "title": "Final Readiness and Download Test",
+    "description": "Check your tools and download a sample ZIP.",
+    "optional": false
+  }
+]

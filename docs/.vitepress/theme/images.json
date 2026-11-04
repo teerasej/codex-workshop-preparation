@@ -1,0 +1,121 @@
+{
+  "hero": {
+    "alt": "A laptop, phone, and checklist arranged for a coding workshop.",
+    "width": 1672,
+    "height": 941,
+    "sources": [
+      {
+        "url": "/images/hero-512.webp",
+        "width": 512,
+        "height": 288
+      },
+      {
+        "url": "/images/hero-1024.webp",
+        "width": 1024,
+        "height": 576
+      }
+    ]
+  },
+  "section-01": {
+    "alt": "Identity cards and a key beside a local project folder.",
+    "width": 1536,
+    "height": 1024,
+    "sources": [
+      {
+        "url": "/images/section-01-768.webp",
+        "width": 768,
+        "height": 512
+      },
+      {
+        "url": "/images/section-01-1536.webp",
+        "width": 1536,
+        "height": 1024
+      }
+    ]
+  },
+  "section-02": {
+    "alt": "A learner prepares tools for code, source control, and browser testing.",
+    "width": 1536,
+    "height": 1024,
+    "sources": [
+      {
+        "url": "/images/section-02-768.webp",
+        "width": 768,
+        "height": 512
+      },
+      {
+        "url": "/images/section-02-1536.webp",
+        "width": 1536,
+        "height": 1024
+      }
+    ]
+  },
+  "section-03": {
+    "alt": "A phone connected to a laptop for mobile application testing.",
+    "width": 1536,
+    "height": 1024,
+    "sources": [
+      {
+        "url": "/images/section-03-768.webp",
+        "width": 768,
+        "height": 512
+      },
+      {
+        "url": "/images/section-03-1536.webp",
+        "width": 1536,
+        "height": 1024
+      }
+    ]
+  },
+  "section-04": {
+    "alt": "A laptop and container connected to a prepared cloud environment.",
+    "width": 1536,
+    "height": 1024,
+    "sources": [
+      {
+        "url": "/images/section-04-768.webp",
+        "width": 768,
+        "height": 512
+      },
+      {
+        "url": "/images/section-04-1536.webp",
+        "width": 1536,
+        "height": 1024
+      }
+    ]
+  },
+  "section-05": {
+    "alt": "A phone simulator displayed on a monitor beside a setup tool.",
+    "width": 1536,
+    "height": 1024,
+    "sources": [
+      {
+        "url": "/images/section-05-768.webp",
+        "width": 768,
+        "height": 512
+      },
+      {
+        "url": "/images/section-05-1536.webp",
+        "width": 1536,
+        "height": 1024
+      }
+    ]
+  },
+  "section-06": {
+    "alt": "A download arrow entering a folder beside a checked document.",
+    "width": 1536,
+    "height": 1024,
+    "sources": [
+      {
+        "url": "/images/section-06-768.webp",
+        "width": 768,
+        "height": 512
+      },
+      {
+        "url": "/images/section-06-1536.webp",
+        "width": 1536,
+        "height": 1024
+      }
+    ]
+  }
+}
