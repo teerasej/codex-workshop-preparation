@@ -17,6 +17,9 @@ hero:
     - theme: alt
       text: Final readiness check
       link: /sections/06-readiness
+    - theme: alt
+      text: Workshop exercises
+      link: https://teerasej.github.io/codex-mobile-app-workshop/
 ---
 
 <div class="home-content">
