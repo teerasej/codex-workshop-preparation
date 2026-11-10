@@ -77,3 +77,5 @@ If a security or network policy blocks the download, ask IT to review access to 
 5. Any unresolved setup errors, with passwords and other secrets removed.
 
 **Ready to attend:** required tools work, a sample Flutter app runs in Chrome and Android, and the download test passes. iOS remains optional. VS Code is not required.
+
+When you’re ready, [open the Workshop exercises](https://teerasej.github.io/codex-mobile-app-workshop/) to find the four days of Service Desk Lite activities.
